@@ -7,3 +7,5 @@
 ## 关于开发
 1. 后台一般为内部的管理人员使用，所以开发主要以PC的Chrome/Safari为测试浏览器，不会考虑IE之类的浏览器；
 2. 备选基于如下框架来进行二次开发：Ant Design、Uikit、layui、Semantic UI、飞冰、iView、Element、Bootstrap 4等
+## 界面大概长这样
+![侠课岛后台Uikit](xkd.jpg)
